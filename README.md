@@ -1,4 +1,7 @@
-# 🚀 One-Q-4-All
+<p align="center">
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/126c23a7-3c94-4be4-88f0-d82a41b46c75" />
+
+</p>
 
 O **One-Q-4-All** é um Tradutor de Filas (Queue Translator) universal e nativo, construído para unificar o caos dos protocolos de mensageria em uma única interface elegante e eficiente.
 
